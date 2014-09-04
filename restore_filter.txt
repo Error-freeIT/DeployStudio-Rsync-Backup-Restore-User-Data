@@ -1,0 +1,3 @@
+- /Shared
+- /*/Documents/Microsoft User Data
+- /*/Library/Caches
